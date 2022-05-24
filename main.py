@@ -12,3 +12,4 @@ from tkinter import ttk
 root = Tk()
 
 # next action here
+# this is a protection test
